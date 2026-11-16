@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <Header />
         <main>{children}</main>
         <footer>
-          <a href="LINK_INSTAGRAM" target="_blank">Instagram</a> • <a href="LINK_YOUTUBE" target="_blank">YouTube</a>
+          <a href="https://www.instagram.com/themoviegames_/" target="_blank">Instagram</a> • <a href="https://www.youtube.com/@comodogamestv" target="_blank">YouTube</a>
           <br />© The Movie Games — notícias de jogos e cinema
         </footer>
       </body>
