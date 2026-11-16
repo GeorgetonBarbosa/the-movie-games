@@ -14,7 +14,10 @@ export default function RootLayout({ children }) {
       <body>
         <Header />
         <main>{children}</main>
-        <footer>© The Movie Games — notícias de jogos e cinema</footer>
+        <footer>
+          <a href="LINK_INSTAGRAM" target="_blank">Instagram</a> • <a href="LINK_YOUTUBE" target="_blank">YouTube</a>
+          <br />© The Movie Games — notícias de jogos e cinema
+        </footer>
       </body>
     </html>
   );
